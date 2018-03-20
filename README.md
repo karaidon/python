@@ -1,7 +1,7 @@
 Various things I've written in Python.
 
 
-poloLendingBot
+*poloLendingBot*
 
 A simple bot that autolends ETH out for margin traders on Poloniex at the next best rate.
 Poloniex's autorenew loan feature renews your loan at whatever rate you offered it at previously,
@@ -10,3 +10,7 @@ but adjusts your interest rate so that it gets you the best rate whilst ensuring
 has the best chance of getting accepted by a margin trader.
 
 Makes use of this wrapper for the Poloniex API: https://pastebin.com/8fBVpjaj
+
+*tradingbot*
+
+An initial attempt at writing a bitcoin trading bot that never really went anywhere...
