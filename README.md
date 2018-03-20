@@ -13,4 +13,5 @@ Makes use of this wrapper for the Poloniex API: https://pastebin.com/8fBVpjaj
 
 *tradingbot*
 
-An initial attempt at writing a bitcoin trading bot that never really went anywhere...
+An initial attempt at writing a bitcoin trading bot. But then I bought ETH and decided to hodl,
+and ETH price skyrocketed, so this bot just kinda didn't go anywhere....
