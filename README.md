@@ -15,3 +15,9 @@ Makes use of this wrapper for the Poloniex API: https://pastebin.com/8fBVpjaj
 
 An initial attempt at writing a bitcoin swing trading bot. But then I bought ETH and decided to hodl,
 and ETH price skyrocketed, so this bot just kinda didn't go anywhere....
+
+*gradeChecker*
+
+A Math Prof I had uploaded grades as a static html page which was manually updated at sporadic times.
+I wrote this script to run as a cron job on a raspberry pi to regularly check if the grades were updated.
+The html page was hashed and the hash saved, and if it changed an email is sent out.
